@@ -5,7 +5,7 @@ A full-stack Library Management System built using:
 - 💻 **Django** & **Django REST Framework** for the Backend  
 - ⚛️ **ReactJS** with **Bootstrap** for the Frontend  
 - 🔐 **JWT Authentication**  
-- 📊 Dashboard, Search, Carousel, Sidebar Navigation, and more!
+- 📊 Dashboard, Search, Sidebar Navigation, and more!
 
 ---
 
